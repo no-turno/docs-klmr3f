@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-978rj4.idncuan.xyz/sitemap.xml
